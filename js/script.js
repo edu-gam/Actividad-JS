@@ -1,11 +1,11 @@
 const usuario = {
-    nombre: "Manuel",
-    apellido: "Ortega",
-    edad: 23,
+    nombre: "Maria",
+    apellido: "Gómez",
+    edad: 25,
 }
 const direccion = {
     calle: "Calle #13",
-    ciudad: "Cartagena",
+    ciudad: "Bogotá",
     pais: "Colombia"
 }
 
